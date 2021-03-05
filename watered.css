@@ -1,10 +1,15 @@
-
 .back{
    width:700px;
    margin-left: 450px;
 }
 
-
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    text-shadow:0 0 3px black, 0 0 7px #FC3D74;
+    margin-left: 450px;
+    margin-bottom: 50px;
+}
 
 #flowersTwo{
     margin-top: 0px;
